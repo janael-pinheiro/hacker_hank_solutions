@@ -2,7 +2,19 @@ from hacker_hank.grid_search import grid_search
 from pytest import mark
 
 
-@mark.parametrize("grid, pattern, expected", [(
+@mark.parametrize("grid, pattern, expected", [
+    (
+        [
+            '7283455864',
+            '6731158619',
+            '8988242643'],
+        [
+            '9505',
+            '3845',
+            '3530'],
+        "NO"
+    ),
+    (
         [
             '7283455864',
             '6731158619',
