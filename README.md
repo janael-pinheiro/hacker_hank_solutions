@@ -30,4 +30,5 @@ Challenges solved:
 - Strong Password;
 - Super Reduced String;
 - Taum Birthday;
-- Two Strings.
+- Two Strings;
+- Find the median.
