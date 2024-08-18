@@ -35,4 +35,5 @@ Challenges solved:
 - Running Time of Algorithms;
 - Counting Sort part 1;
 - Counting Sort part 2;
-- Quick sort 1 partition.
+- Quick sort 1 partition;
+- Flipping bits.
