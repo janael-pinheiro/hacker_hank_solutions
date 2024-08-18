@@ -34,4 +34,5 @@ Challenges solved:
 - Find the median;
 - Running Time of Algorithms;
 - Counting Sort part 1;
-- Counting Sort part 2.
+- Counting Sort part 2;
+- Quick sort 1 partition.
