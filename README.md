@@ -33,4 +33,5 @@ Challenges solved:
 - Two Strings;
 - Find the median;
 - Running Time of Algorithms;
-- Counting Sort part 1.
+- Counting Sort part 1;
+- Counting Sort part 2.
