@@ -1,1 +1,33 @@
-# hacker_hank_solutions
+# HackerHank Solutions
+
+Challenges solved:
+- ACM Team;
+- Append and Delete;
+- Beautiful Binary String;
+- Big Sorting;
+- Cavity Map;
+- Chocolate Feast;
+- Closest Numbers;
+- Fair Rations;
+- Funny String;
+- Game of Thrones;
+- Gem Stones;
+- Grid Search;
+- HackerHank in String;
+- Happy Lady Bug;
+- Ice Cream Parlor;
+- Insertion Sort Part 1;
+- Insertion Sort Part 2;
+- Lisa Workbook;
+- Lonely Integer;
+- Love Letter Mystery;
+- Making Anagrams;
+- Manasa and Stones;
+- Mars exploration;
+- Missing Numbers;
+- Strange Counter;
+- String Construction;
+- Strong Password;
+- Super Reduced String;
+- Taum Birthday;
+- Two Strings.
