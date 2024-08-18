@@ -31,4 +31,5 @@ Challenges solved:
 - Super Reduced String;
 - Taum Birthday;
 - Two Strings;
-- Find the median.
+- Find the median;
+- Running Time of Algorithms.
