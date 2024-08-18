@@ -32,4 +32,5 @@ Challenges solved:
 - Taum Birthday;
 - Two Strings;
 - Find the median;
-- Running Time of Algorithms.
+- Running Time of Algorithms;
+- Counting Sort part 1.
