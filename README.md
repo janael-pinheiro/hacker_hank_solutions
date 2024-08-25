@@ -36,4 +36,5 @@ Challenges solved:
 - Counting Sort part 1;
 - Counting Sort part 2;
 - Quick sort 1 partition;
-- Flipping bits.
+- Flipping bits;
+- Maximizing XOR.
