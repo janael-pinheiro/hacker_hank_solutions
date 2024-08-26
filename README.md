@@ -37,4 +37,5 @@ Challenges solved:
 - Counting Sort part 2;
 - Quick sort 1 partition;
 - Flipping bits;
-- Maximizing XOR.
+- Maximizing XOR;
+- Counter game.
