@@ -38,4 +38,5 @@ Challenges solved:
 - Quick sort 1 partition;
 - Flipping bits;
 - Maximizing XOR;
-- Counter game.
+- Counter game;
+- Arrays: left rotation.
