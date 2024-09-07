@@ -44,4 +44,5 @@ Challenges solved:
 - Arrays: new year chaos;
 - Bubble sort;
 - Sorting comparator;
-- Mark and toys.
+- Mark and toys;
+- Insert a node at a specific position in a linked list.
