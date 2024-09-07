@@ -41,4 +41,5 @@ Challenges solved:
 - Counter game;
 - Arrays: left rotation;
 - Ransom note;
-- Arrays: new year chaos.
+- Arrays: new year chaos;
+- Bubble sort.
