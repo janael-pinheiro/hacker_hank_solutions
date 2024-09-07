@@ -7,9 +7,5 @@ def making_anagrams(s1: str, s2: str):
         s1_count[letter] = s1.count(letter)
         s2_count[letter] = s2.count(letter)
     for letter in unique_letters:
-        if (s1_count[letter] > 0 and s2_count[letter] == 0) or (s1_count[letter] == 0 and s2_count[letter] > 0):
-            number_deletions += s1_count.get(letter, 0)
-            number_deletions += s2_count.get(letter, 0)
-        else:
-            number_deletions += abs(s1_count[letter] - s2_count[letter])
+        number_deletions += abs(s1_count[letter] - s2_count[letter])
     return number_deletions
