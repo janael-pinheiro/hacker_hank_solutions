@@ -40,4 +40,5 @@ Challenges solved:
 - Maximizing XOR;
 - Counter game;
 - Arrays: left rotation;
-- Ransom note.
+- Ransom note;
+- Arrays: new year chaos.
