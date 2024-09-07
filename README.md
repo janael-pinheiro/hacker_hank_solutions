@@ -45,4 +45,5 @@ Challenges solved:
 - Bubble sort;
 - Sorting comparator;
 - Mark and toys;
-- Insert a node at a specific position in a linked list.
+- Insert a node at a specific position in a linked list;
+- Inserting a node into a doubly linked list.
