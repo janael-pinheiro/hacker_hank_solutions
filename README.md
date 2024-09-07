@@ -43,4 +43,5 @@ Challenges solved:
 - Ransom note;
 - Arrays: new year chaos;
 - Bubble sort;
-- Sorting comparator.
+- Sorting comparator;
+- Mark and toys.
