@@ -42,4 +42,5 @@ Challenges solved:
 - Arrays: left rotation;
 - Ransom note;
 - Arrays: new year chaos;
-- Bubble sort.
+- Bubble sort;
+- Sorting comparator.
