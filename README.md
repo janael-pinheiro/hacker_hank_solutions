@@ -39,4 +39,5 @@ Challenges solved:
 - Flipping bits;
 - Maximizing XOR;
 - Counter game;
-- Arrays: left rotation.
+- Arrays: left rotation;
+- Ransom note.
