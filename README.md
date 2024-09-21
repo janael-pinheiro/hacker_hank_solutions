@@ -47,4 +47,5 @@ Challenges solved:
 - Mark and toys;
 - Insert a node at a specific position in a linked list;
 - Inserting a node into a doubly linked list;
-- Fibonacci numbers.
+- Fibonacci numbers;
+- Maximum element.
