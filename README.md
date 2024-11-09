@@ -49,4 +49,5 @@ Challenges solved:
 - Inserting a node into a doubly linked list;
 - Fibonacci numbers;
 - Maximum element;
-- Marc's Cakewalk.
+- Marc's Cakewalk;
+- Luck balance.
